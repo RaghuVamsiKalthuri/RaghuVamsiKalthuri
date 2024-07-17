@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghu Vamsi Kalthuri</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">I'm a 3rd year Computer Science student at NIT Warangal, passionate about web development. I'm currently in the learning phase, eager to expand my knowledge and skills in creating dynamic and user-friendly web applications.</h3>
 
 - 📫 How to reach me **kr22csb0b17@student.nitw.ac.in**
 
